@@ -1,0 +1,4 @@
+version: '3.3'
+services:
+  a80ccd8bfd4f:
+    image: 'sha256:a80ccd8bfd4fe05d9d43940ce22f41837aa9735fff8f15c5514abb7147b549aa'
